@@ -1,0 +1,118 @@
+/*---------------------------------------------------------------------
+    Large Desktops
+-----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+   
+}
+
+
+/*---------------------------------------------------------------------
+    Desktops
+----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+
+}
+
+
+/*---------------------------------------------------------------------
+    Tablets Devices
+-----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    
+    .header-top {
+		text-align: center;
+	}
+	.portfolio-tab ul li {
+		margin-top: 5px;
+	}
+	#all-slide .single-slider a {
+		margin-right: 10px;
+		margin-bottom: 10px;
+	}
+	.single-work-item .single-work-content {
+		padding: 10px;
+	}
+	
+	.navbar-nav > li > a {
+		padding: 12px 15px !important;
+		margin-left: 0;
+		border-bottom: 1px solid #ddd;
+	}
+	#all-slide .single-slider a {
+		margin-right: 10px;
+		margin-bottom: 10px;
+	}
+	.page-title-box h2 {
+		font-size: 26px;
+	}
+
+}
+
+
+/*----------------------------------------------------------------------
+   Mobile Devices
+------------------------------------------------------------------------*/
+
+@media only screen and (min-width: 360px) and (max-width: 479px) {
+   .header-top {
+		text-align: center;
+	}
+	.navbar-nav > li > a {
+		padding: 12px 15px !important;
+		margin-left: 0;
+		border-bottom: 1px solid #ddd;
+	}
+	#all-slide .single-slider a {
+		margin-right: 10px;
+		margin-bottom: 10px;
+	}
+	.slider-text .slider-caption h1 {
+		font-size: 26px;
+	}
+	.portfolio-tab ul li {
+		margin-top: 5px;
+	}
+	
+	.single-work-item .single-work-content {
+		padding: 10px;
+	}
+	.page-title-box h2 {
+		font-size: 26px;
+	}
+}
+
+
+/*----------------------------------------------------------------------
+    Small Screen Mobile Devices
+-----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 320px) and (max-width: 359px) {
+   .header-top {
+		text-align: center;
+	}
+	.navbar-nav > li > a {
+		padding: 12px 15px !important;
+		margin-left: 0;
+		border-bottom: 1px solid #ddd;
+	}
+	#all-slide .single-slider a {
+		margin-right: 10px;
+		margin-bottom: 10px;
+	}
+	.slider-text .slider-caption h1 {
+		font-size: 26px;
+	}
+	.portfolio-tab ul li {
+		margin-top: 5px;
+	}
+	.single-work-item .single-work-content {
+		padding: 10px;
+	}
+	.page-title-box h2 {
+		font-size: 26px;
+	}
+}
